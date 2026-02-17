@@ -1,0 +1,3 @@
+[submodule "lib/3DEngine"]
+	path = lib/3DEngine
+	url = https://github.com/master0914/3DEngine.git
